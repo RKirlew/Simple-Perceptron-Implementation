@@ -54,7 +54,7 @@ int output = p.activate();     // outputs: Activated or Not Activated
 
 ```bash
 .
-├── BNode.h          # Simple struct with input value and weight
+├── BNode.h          # Simple header class with input value and weight
 ├── Perceptron.h     # Perceptron class declaration
 ├── Perceptron.cpp   # Perceptron method definitions
 ├── main.cpp         # Main entry point to test the perceptron
